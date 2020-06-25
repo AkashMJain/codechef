@@ -1,0 +1,12 @@
+# Ignore Everything
+
+*
+
+# But no this files.
+!.gitignore
+!*.cpp
+!*.java
+!*.c
+!*.py
+
+

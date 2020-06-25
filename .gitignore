@@ -1,7 +1,7 @@
 # Ignore Everything
 
 *
-
+!*/
 # But no this files.
 !.gitignore
 !*.cpp
@@ -9,6 +9,7 @@
 !*.c
 !*.py
 
-!/**/*.cpp
-!/**/*.c
+# if in subdirectories
+!*/c/*.c
+!*/cpp/*.cpp
 
